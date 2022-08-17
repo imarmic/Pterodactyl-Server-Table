@@ -1,4 +1,4 @@
-# Discord-About-me
+# Pterodactyl-Server-Table
 
 This is a Node.js Application that uses the pterodactyl client api and gets all your servers and puts them into a nice visual table.
 
